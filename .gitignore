@@ -176,3 +176,4 @@ annotations/person_keypoints_val2014.json
 
 archive (2)/cars_annos.mat
 img.zip
+config/config.yaml
